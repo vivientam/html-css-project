@@ -1,0 +1,141 @@
+
+body {
+
+}
+
+.black-block {
+    background-color: black;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:50px;
+    padding-left:50px;
+}
+
+.navigation {
+    color: gray; 
+    font: Arial;
+    font-size: 12pt;
+    padding-right: 20px;
+    text-decoration: none;
+}
+
+.social-banner {
+  padding: 20px 50px 20px 50px;
+  height: 50px;
+  float: right;
+}
+
+.blog {
+  padding-right: 20px;
+}
+
+.logo {
+  padding: 20px 50px 20px 50px;
+  height: 50px;
+  float: left;
+}
+
+.linkedin-grey {
+  width: 50px;
+  height: 50px;
+  left: 1000px;
+  top: 100px;
+}
+
+.twitter-grey {
+  width: 50px;
+  height: 50px;
+  left: 1050px;
+  top: 100px;
+}
+
+.facebook-grey {
+  width: 50px;
+  height: 50px;
+  right: 1100px;
+  top:100px;
+}
+
+.rss-grey {
+  width: 50px;
+  height: 50px;
+  right: 1150px;
+  top:100px;
+}
+
+.photobanner {
+  width: 90%;
+  height: 500px;
+  left: 50px;
+  top:200px;
+}
+
+.rec-for-button {
+  position: relative;
+  width: 90%;
+  height: 50px;
+}
+
+.request {
+  position: relative;
+  width: 60%;
+  height: 50;
+  padding: 5px 0px 5px 5px;
+}
+
+.button {
+  position: relative;
+  width: 10%;
+  height: 20px;
+  float: right;
+}
+
+.container {
+  margin: 0 10% 0 10%;
+}
+
+.rec-for-columns {
+  position: relative;
+  width: 100%;
+  height: 500px;
+}
+
+.home-box {
+    color: black; 
+    font: Arial;
+    font-size: 20pt;
+    padding-right: 50px;
+    text-decoration: none;
+}
+
+.colume-border {
+  border: 5px solid gray;
+}
+
+.home-box-1 {
+  display: inline-block;
+  padding: 5px 80px 5px 0px;
+  width: 310px;
+  height: 300px;
+}
+
+.home-box-2 {
+  display: inline-block;
+  padding: 5px 80px 5px 0px;
+  width: 310px;
+  height: 300px;
+}
+
+.home-box-3 {
+  display: inline-block;
+  padding: 5px 0px 5px 0px;
+  width: 310px;
+  height: 300px;
+}
+
+.read-more {
+    color: blue; 
+    font: Arial;
+    font-size: 12pt;
+    text-decoration: none;
+}
